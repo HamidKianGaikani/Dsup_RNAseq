@@ -1,1 +1,2 @@
-something else
+this depository is for studying dsup gene in yeast, more specifically analysis of rna-seq experiments.
+may 12, 2024 h. kian gaikani
